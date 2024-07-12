@@ -1,0 +1,20 @@
+
+@host = http://localhost
+@port = 5052
+
+@Restaurants_API_HostAddress = {{host}}:{{port}}
+
+GET {{Restaurants_API_HostAddress}}/api/weatherforecast/
+
+Accept: application/json
+Guid: {{$guid}}
+ProjectUrl: {{$projectURL}}
+
+###
+
+POST {{Restaurants_API_HostAddress}}/api/weatherforecast/
+Content-Type: application/json
+
+{
+    "email": "bla@bla.com"
+}

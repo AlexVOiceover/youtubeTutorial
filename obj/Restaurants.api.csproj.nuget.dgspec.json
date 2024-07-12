@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.api/Restaurants.api.csproj": {}
+  },
+  "projects": {
+    "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.api/Restaurants.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.api/Restaurants.api.csproj",
+        "projectName": "Restaurants.api",
+        "projectPath": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.api/Restaurants.api.csproj",
+        "packagesPath": "/home/alex/.nuget/packages/",
+        "outputPath": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.application/Restaurants.application.csproj": {
+                "projectPath": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.application/Restaurants.application.csproj"
+              },
+              "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.domain/Restaurants.domain.csproj": {
+                "projectPath": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.domain/Restaurants.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/alex/.dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.application/Restaurants.application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.application/Restaurants.application.csproj",
+        "projectName": "Restaurants.application",
+        "projectPath": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.application/Restaurants.application.csproj",
+        "packagesPath": "/home/alex/.nuget/packages/",
+        "outputPath": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/alex/.dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.domain/Restaurants.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.domain/Restaurants.domain.csproj",
+        "projectName": "Restaurants.domain",
+        "projectPath": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.domain/Restaurants.domain.csproj",
+        "packagesPath": "/home/alex/.nuget/packages/",
+        "outputPath": "/home/alex/Documents/FAC/FAC29/Apprenticeship/W79/Workshops/youtubeTutorial/Restaurants.domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/alex/.dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
